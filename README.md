@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=MarwanTamerSayed&label=Profile%20views&color=0e75b6&style=flat" alt="MarwanTamerSayed" />
 </p>
 
-- 🎓 Sophomore at Faculty of Computers & Artificial Intelligence, Cairo University  
+- 🎓 Student at Faculty of Computers & Artificial Intelligence, Cairo University  
 - 🔍 Interested in **Machine Learning**, **Data Analysis**, and **Software Development**
 - 🌱 Currently learning advanced ML techniques and software engineering concepts
 - 💡 Passionate about applying data science to solve real-world problems
